@@ -1,0 +1,17 @@
+{
+	"compilerOption": {
+	"target": "es5",
+	"module" : "commomjs",
+	"outDir" : "dist"
+	
+	},
+	"include" : [
+		"src/**/*.ts"
+	],
+	"exclude" : [
+		"node_modules"
+	
+	]
+
+}
+
